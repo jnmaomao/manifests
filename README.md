@@ -1,5 +1,7 @@
 # Kubeflow Manifests
 
+## 增加了使用中国阿里云镜像并K8S服务文件快速部署的方式,请参考quick_start目录
+
 ## Table of Contents
 
 <!-- toc -->
